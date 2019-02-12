@@ -8,8 +8,7 @@ import useAxios from "./use-axios.js";
 
 const styles = {
   card: {
-    minWidth: 200,
-    background: "#e2e2e2"
+    minWidth: 200
   },
   setup: {
     fontSize: "1.3rem"
